@@ -6,6 +6,6 @@
 class heroku_toolbelt {
   package { 'heroku-toolbelt.pkg':
     provider => 'pkgdmg',
-    source   => '',
+    source   => 'https://toolbelt.heroku.com/download/osx',
   }
 }

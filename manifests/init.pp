@@ -4,8 +4,8 @@
 #
 #  include heroku_toolbelt
 class heroku_toolbelt {
-  package { 'heroku-toolbelt.pkg':
+  package { 'Heroku-Toolbelt.pkg.dmg':
     provider => 'pkgdmg',
-    source   => 'https://toolbelt.heroku.com/download/osx',
+    source   => 'https://yum.cegeka.be/osx_packages/Heroku-Toolbelt.pkg.dmg',
   }
 }

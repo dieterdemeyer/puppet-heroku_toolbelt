@@ -1,5 +1,7 @@
 # Heroku Toolbelt Puppet Module for Boxen
 
+Install [Heroku Toolbelt](https://toolbelt.heroku.com/), command-line tooling for working with the Heroku platform, on OS X.
+
 ## Usage
 
 ```puppet

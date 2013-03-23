@@ -1,0 +1,3 @@
+fixtures:
+  symlinks:
+    "heroku_toolbelt": "#{source_dir}"
